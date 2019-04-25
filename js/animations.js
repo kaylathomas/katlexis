@@ -1,0 +1,4 @@
+$(function() {
+    $("#illustrations").fadeIn(function(){
+    })
+});
